@@ -1,5 +1,5 @@
 # Use the official Playwright image with browsers pre-installed
-FROM mcr.microsoft.com/playwright:v1.56.0-focal
+FROM mcr.microsoft.com/playwright:v1.57.0-noble
 
 # Set working directory inside container
 WORKDIR /app
